@@ -1,0 +1,8 @@
+NeoShape - Base de conhecimento exemplo
+
+Este projeto responde perguntas usando apenas os documentos colocados na pasta knowledge_base.
+
+Informações iniciais:
+- Horário de atendimento: Segunda a sexta, das 09:00 às 18:00.
+- E-mail de suporte: suporte@neoshape.local.
+- Política de devolução: até 7 dias corridos após a compra.
